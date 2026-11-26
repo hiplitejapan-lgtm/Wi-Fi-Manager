@@ -31,6 +31,7 @@ VERSION="4.2"
 
 POWERSAVE_OFF=ON			# ON for connection stability (powersaving feature off)
 BG_DISPATCHER=ON			# ON for connection stability (background scan off)
+WIFI_LOG=ON
 
 # Connection Monitor Settings:
 MONITOR=ON					# ON for lost connection repair
